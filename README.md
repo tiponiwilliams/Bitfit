@@ -31,7 +31,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Kapture 2025-10-17 at 14 06 30](https://github.com/user-attachments/assets/a03e90a6-4654-432d-a4fb-2474b87d1d5c)
+<img width="376" height="836" alt="Kapture 2026-04-20 at 13 54 52" src="https://github.com/user-attachments/assets/69ea144c-7e52-4013-b5f8-900f6266e89f" />
+
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
